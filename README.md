@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pius1999
+- 👋 Hi, I’m @Pius
 - 👀 I’m interested in ...full stack
 - 🌱 I’m currently learning ... front end
 - 💞️ I’m looking to collaborate on ...web design
